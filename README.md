@@ -31,7 +31,7 @@ Acima de tudo. **DIVIRTA-SE!**
 Contato ou homebrew exclusivo — Entre no meu [Servidor do Discord](https://discord.com/invite/bYrNcwkCK6).
 {% endhint %}
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Classes</strong></td><td>+ Subclasses</td><td></td><td></td><td><a href="homebrew/classes/">classes</a></td></tr><tr><td><strong>Raças</strong></td><td>Amo fazer bicho</td><td></td><td></td><td><a href="broken-reference/">broken-reference</a></td></tr><tr><td><strong>Bestiário</strong></td><td>Para mestres</td><td></td><td></td><td><a href="homebrew/publish-your-docs.md">publish-your-docs.md</a></td></tr><tr><td><strong>Magias</strong></td><td>Meu lugar favorito!</td><td></td><td></td><td></td></tr><tr><td><strong>Itens</strong></td><td>Mágicos ou não</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Classes</strong></td><td>+ Subclasses</td><td></td><td></td><td><a href="homebrew/classes/">classes</a></td></tr><tr><td><strong>Raças</strong></td><td>Amo fazer bicho</td><td></td><td></td><td><a href="homebrew/publish-your-docs.md">publish-your-docs.md</a></td></tr><tr><td><strong>Bestiário</strong></td><td>Para mestres</td><td></td><td></td><td><a href="homebrew/publish-your-docs-1.md">publish-your-docs-1.md</a></td></tr><tr><td><strong>Magias</strong></td><td>Meu lugar favorito!</td><td></td><td></td><td><a href="homebrew/publish-your-docs-2.md">publish-your-docs-2.md</a></td></tr><tr><td><strong>Itens</strong></td><td>Mágicos ou não</td><td></td><td></td><td><a href="homebrew/publish-your-docs-3.md">publish-your-docs-3.md</a></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 ***
 
@@ -43,3 +43,6 @@ Após inúmeras mesas nunca finalizadas, oneshots e campanhas eu pensei "Porque 
 
 E espero que alguma destas criações sejam úteis pra você.
 
+{% hint style="success" %}
+[Canal no YouTube](https://www.youtube.com/@BaudoDoppler) — [Instagram](https://www.instagram.com/baudodoppler/) — [TikTok](https://www.tiktok.com/@baudodoppler?_t=8n79QXBR4HV&_r=1) — [Twitter (X)](https://x.com/BauDoDoppler)
+{% endhint %}
