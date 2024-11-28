@@ -13,9 +13,8 @@
 
 ## OUTROS
 
-* [Editor](outros/editor.md)
-* [Markdown](outros/markdown.md)
-* [Images & media](outros/images-and-media.md)
-* [Interactive blocks](outros/interactive-blocks.md)
-* [OpenAPI](outros/openapi.md)
-* [Integrations](outros/integrations.md)
+* [Instagram](https://www.instagram.com/baudodoppler/)
+* [Discord](https://discord.com/invite/bYrNcwkCK6)
+* [YouTube](https://www.youtube.com/@BaudoDoppler)
+* [TikTok](https://www.tiktok.com/@baudodoppler?_t=8n79QXBR4HV&_r=1)
+* [X](https://x.com/BauDoDoppler)
