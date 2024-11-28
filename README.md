@@ -1,6 +1,6 @@
 ---
-description: Sua fonte de homebrew criativo!
 icon: hand-wave
+description: Sua fonte de homebrew criativo!
 cover: https://gitbookio.github.io/onboarding-template-images/header.png
 coverY: 0
 layout:
@@ -25,6 +25,8 @@ Dê uma olhada no que preparei pra você, tenho certeza que alguma dessas vai te
 
 Acima de tudo. **DIVIRTA-SE!**
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Classes</strong></td><td>+ Subclasses</td><td></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><strong>Raças</strong></td><td>Amo fazer bicho</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Bestiário</strong></td><td>Para mestres</td><td></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr><tr><td><strong>Magias</strong></td><td>Meu lugar favorito!</td><td></td><td></td><td></td></tr><tr><td><strong>Itens</strong></td><td>Mágicos ou não</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Classes</strong></td><td>+ Subclasses</td><td></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><strong>Raças</strong></td><td>Amo fazer bicho</td><td></td><td></td><td><a href="broken-reference/">broken-reference</a></td></tr><tr><td><strong>Bestiário</strong></td><td>Para mestres</td><td></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr><tr><td><strong>Magias</strong></td><td>Meu lugar favorito!</td><td></td><td></td><td></td></tr><tr><td><strong>Itens</strong></td><td>Mágicos ou não</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
-{% hint style="success" %} Contato ou homebrew exclusivo — Entre no meu [Servidor do Discord](https://discord.com/invite/bYrNcwkCK6). {% endhint %}
+{% hint style="success" %}
+Contato ou homebrew exclusivo — Entre no meu [Servidor do Discord](https://discord.com/invite/bYrNcwkCK6).
+{% endhint %}
