@@ -2,10 +2,10 @@
 
 * [Qual a pedida pra hoje?](README.md)
 
-## Getting Started
+## HOMEBREW
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Classes](homebrew/classes.md)
+* [Publish your docs](homebrew/publish-your-docs.md)
 
 ## Basics
 
