@@ -1,7 +1,7 @@
 ---
 icon: hand-wave
 description: Sua fonte de homebrew criativo!
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
+cover: .gitbook/assets/BEMVINDO.png
 coverY: 0
 layout:
   cover:
