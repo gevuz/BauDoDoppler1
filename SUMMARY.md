@@ -4,8 +4,11 @@
 
 ## HOMEBREW
 
-* [Classes](homebrew/classes.md)
-* [Publish your docs](homebrew/publish-your-docs.md)
+* [Classes](homebrew/classes/README.md)
+  * [Subclasses](homebrew/classes/classes.md)
+* [Raças](homebrew/publish-your-docs.md)
+* [Bestiário](homebrew/publish-your-docs-1.md)
+* [Magias](homebrew/publish-your-docs-2.md)
 
 ## Basics
 
