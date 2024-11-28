@@ -9,6 +9,7 @@
 * [Raças](homebrew/publish-your-docs.md)
 * [Bestiário](homebrew/publish-your-docs-1.md)
 * [Magias](homebrew/publish-your-docs-2.md)
+* [Itens](homebrew/publish-your-docs-3.md)
 
 ## Basics
 
